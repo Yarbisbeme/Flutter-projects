@@ -1,6 +1,11 @@
 # tarea_4_devmobil
 
-A new Flutter project.
+This is my first flutter project!!!!. 
+
+Hola Este proyecto es el primero que hago en flutter. Basicamente es una presentación, contiene mi nombre, una imagen mia y la fecha y hora actualizandose. Es algo sencillo para empezar.
+
+![image](https://github.com/user-attachments/assets/71c04c75-5220-453f-b742-8fdcfb332194)
+
 
 ## Getting Started
 
