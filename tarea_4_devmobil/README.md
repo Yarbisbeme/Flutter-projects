@@ -4,8 +4,11 @@ This is my first flutter project!!!!.
 
 Hola Este proyecto es el primero que hago en flutter. Basicamente es una presentación, contiene mi nombre, una imagen mia y la fecha y hora actualizandose. Es algo sencillo para empezar.
 
+##Mobil
 ![image](https://github.com/user-attachments/assets/71c04c75-5220-453f-b742-8fdcfb332194)
 
+##Tablet
+![image](https://github.com/user-attachments/assets/c68b00c9-df7c-45a3-9147-07888cb48052)
 
 ## Getting Started
 
